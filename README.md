@@ -1,0 +1,2 @@
+# bitirme
+bitirme tezimiz
